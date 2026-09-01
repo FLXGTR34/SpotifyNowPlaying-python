@@ -19,7 +19,7 @@ cache_file = ".spotify_cache_app"
 # Die Redirect URI MUSS mit der Adresse deiner Streamlit-App übereinstimmen!
 # Für den lokalen Test: "http://localhost:8501" oder "http://127.0.0.1:8501"
 # Für die Cloud: Die URL deiner Streamlit-App (z.b. https://streamlit.app)
-REDIRECT_URI = "https://streamlit.app" 
+REDIRECT_URI = "https://spotifyplayertestpy-hsw2z8uyx5fjxqtexgazfa.streamlit.app/" 
 
 auth_manager = SpotifyOAuth(
     client_id=C_ID,
