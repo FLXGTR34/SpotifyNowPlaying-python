@@ -1,0 +1,6 @@
+streamlit
+pygame
+spotipy
+syncedlyrics
+Pillow
+librespot-python
