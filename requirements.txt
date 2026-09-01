@@ -3,4 +3,4 @@ pygame
 spotipy
 syncedlyrics
 Pillow
-librespot-python
+librespot
