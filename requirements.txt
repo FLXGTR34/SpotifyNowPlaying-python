@@ -4,3 +4,4 @@ spotipy
 syncedlyrics
 Pillow
 librespot
+protobuf==3.20.3
